@@ -253,7 +253,7 @@ Ansprachen vom 31.12.2023, 14.01.2024 und 28.01.2024:
 
 ## Kontakt
 
-- **GitHub:** [github.com/naphets29](https://github.com/naphets29)
+- **GitHub:** [github.com/naphets86](https://github.com/naphets86)
 - **E-Mail:** Stephan_Epp@web.de
 - **E-Mail:** hjstephan86@gmail.com
 - **Standort:** Bielefeld, Deutschland
